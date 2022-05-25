@@ -5,3 +5,19 @@
 #lista{
     list-style: none;
 }
+#boton{
+    padding: 10px 20px;
+    background-color: indigo ;
+    color: white;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 60px;
+    border-radius: 20px;
+}
+
+span{
+    font-size: 1.3em;
+    text-transform: uppercase;
+    font-weight: bold;
+}
